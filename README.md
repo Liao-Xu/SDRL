@@ -49,7 +49,7 @@ Our model SDRL achieves the following performance on :
 
 | Reduced Dimension|   16   |   32   |   64   |
 | ---------------- |--------|--------|--------|
-|        DDR       | 99.63% | 99.53% | 99.60% |
+|        SDRL       | 99.63% | 99.53% | 99.60% |
 
 With trained models, results can be obtained by running
 
